@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.javaexam.MontrealTradeBagTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-02-12T12:41:06" hostname="DESKTOP-6DJ5P7N" time="0.505">
+  <properties/>
+  <testcase name="testAddingExistingProduct" classname="com.javaexam.MontrealTradeBagTest" time="0.486"/>
+  <testcase name="totalTradeQuantityAndValueForDay" classname="com.javaexam.MontrealTradeBagTest" time="0.008"/>
+  <testcase name="trade" classname="com.javaexam.MontrealTradeBagTest" time="0.007"/>
+  <testcase name="addNewProduct" classname="com.javaexam.MontrealTradeBagTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
