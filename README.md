@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      Simple java application for tracking transactions on a bank account. 
+      Simple java application for tracking transactions on a trading account with mock Products, Exchanges and custom exceptions
     </td>
   </tr>
 </table>
@@ -15,4 +15,4 @@
 Clone this repo to your desktop
 
 # Usage
-There are Mockito tests in the test folder with some examples of the app in use
+There are Mockito tests in /src/test/java/com/javaexam/MontrealTradeBagTest.java with some examples of the app in use
